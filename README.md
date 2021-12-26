@@ -1,6 +1,6 @@
 <!-- markdownlint-disable MD033 MD041-->
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/kanomahoro/images@main/logo.png" width="200" height="200"/>
+  <img src="https://images-murex.vercel.app/logo.png" width="200" height="200"/>
 </p>
 
 <div align="center">
@@ -88,6 +88,6 @@ _✨ 基于NoneBot2的最简点歌插件，支持网易云、QQ音乐 ✨_
 
 ### 效果展示
 
-![效果1](https://cdn.jsdelivr.net/gh/kanomahoro/images@main/xiaoguo3.jpg)
+![效果1](https://images-murex.vercel.app/xiaoguo3.jpg)
 
-![效果2](https://cdn.jsdelivr.net/gh/kanomahoro/images@main/xiaoguo4.jpg)
+![效果2](https://images-murex.vercel.app/xiaoguo4.jpg)
