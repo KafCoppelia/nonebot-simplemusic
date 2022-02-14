@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "nonebot-simplemusic"
+version = "0.3.0"
+description = "基于NoneBot2的最简点歌插件，支持网易云、QQ音乐"
+authors = ["kanomahoro"]
+license = "GPL-3.0"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.8"
+nonebot2 = "^2.0.0-beta.1"
+nonebot-adapter-onebot = "^2.0.0-beta.1"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
